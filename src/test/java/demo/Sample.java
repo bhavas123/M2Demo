@@ -7,7 +7,7 @@ public class Sample {
 	@Test
 	public void demo()
 	{
-		System.out.println("Hi");
+		System.out.println("Friday morning");
 		System.out.println("workspace");
 	}
 }
