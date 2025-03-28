@@ -10,4 +10,9 @@ public class Sample {
 		System.out.println("Friday morning");
 		System.out.println("workspace");
 	}
+	
+	public void demo1()
+	{
+		System.out.println("Weekend approaching");
+	}
 }
